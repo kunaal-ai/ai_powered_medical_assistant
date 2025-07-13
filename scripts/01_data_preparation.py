@@ -64,13 +64,13 @@ X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 
 # ------- Save datasets and scaler for later use ---------
-pd.DataFrame(X_train_scaled, columns=X.columns).to_csv("X_train.csv", index=False)
-pd.DataFrame(X_test_scaled, columns=X.columns).to_csv("X_test.csv", index=False)
-pd.DataFrame(y_train).to_csv("y_train.csv", index=False)
-pd.DataFrame(y_test).to_csv("y_test.csv", index=False)
+pd.DataFrame(X_train_scaled, columns=X.columns).to_csv("data/X_train.csv", index=False)
+pd.DataFrame(X_test_scaled, columns=X.columns).to_csv("data/X_test.csv", index=False)
+pd.DataFrame(y_train).to_csv("data/y_train.csv", index=False)
+pd.DataFrame(y_test).to_csv("data/y_test.csv", index=False)
 
 import joblib
-joblib.dump(scaler, "scaler.pkl")
+joblib.dump(scaler, "models/scaler.pkl")
 
 
 print("Summary Report:")

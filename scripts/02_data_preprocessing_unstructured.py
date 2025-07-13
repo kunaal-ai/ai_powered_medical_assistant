@@ -40,7 +40,7 @@ print(f"\n Document Chunks Created: {len(chunks)}")
 print("Sample Chunk Preview:\n", chunks[0].page_content)
 
 # Save Document Chunks for Later Use
-with open("document_chunks.pkl", "wb") as f:
+with open("models/document_chunks.pkl", "wb") as f:
     pickle.dump(chunks, f)
 
 # Save original Q&A file for reference
