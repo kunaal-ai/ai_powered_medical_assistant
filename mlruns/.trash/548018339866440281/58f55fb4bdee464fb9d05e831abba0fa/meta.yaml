@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kt/Documents/github.com/ai_powered_medical_assistant/mlruns/548018339866440281/58f55fb4bdee464fb9d05e831abba0fa/artifacts
+deleted_time: 1752554568218
+end_time: 1752393224438
+entry_point_name: ''
+experiment_id: '548018339866440281'
+lifecycle_stage: deleted
+run_id: 58f55fb4bdee464fb9d05e831abba0fa
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752393219758
+status: 3
+tags: []
+user_id: kt

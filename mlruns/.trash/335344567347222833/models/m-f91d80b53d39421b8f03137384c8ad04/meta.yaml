@@ -1,0 +1,10 @@
+artifact_location: file:///Users/kt/Documents/github.com/ai_powered_medical_assistant/mlruns/335344567347222833/models/m-f91d80b53d39421b8f03137384c8ad04/artifacts
+creation_timestamp: 1752539257050
+experiment_id: '335344567347222833'
+last_updated_timestamp: 1752539260253
+model_id: m-f91d80b53d39421b8f03137384c8ad04
+model_type: null
+name: logistic_regression_model
+source_run_id: 2ed06a8271dc459b83097da2dd9cf4fd
+status: 2
+status_message: null

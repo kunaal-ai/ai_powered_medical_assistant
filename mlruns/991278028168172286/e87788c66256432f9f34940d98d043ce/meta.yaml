@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kt/Documents/github.com/ai_powered_medical_assistant/mlruns/991278028168172286/e87788c66256432f9f34940d98d043ce/artifacts
+end_time: 1752556680083
+entry_point_name: ''
+experiment_id: '991278028168172286'
+lifecycle_stage: active
+run_id: e87788c66256432f9f34940d98d043ce
+run_name: Explainability_RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752556680051
+status: 3
+tags: []
+user_id: kt

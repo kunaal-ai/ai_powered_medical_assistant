@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kt/Documents/github.com/ai_powered_medical_assistant/mlruns/335344567347222833/a69233339e2542fdab897ea8e34becb1/artifacts
+deleted_time: 1752554565950
+end_time: 1752392767433
+entry_point_name: ''
+experiment_id: '335344567347222833'
+lifecycle_stage: deleted
+run_id: a69233339e2542fdab897ea8e34becb1
+run_name: calm-skink-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752392764576
+status: 3
+tags: []
+user_id: kt

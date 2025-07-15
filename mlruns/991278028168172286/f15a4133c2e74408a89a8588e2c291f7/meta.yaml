@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kt/Documents/github.com/ai_powered_medical_assistant/mlruns/991278028168172286/f15a4133c2e74408a89a8588e2c291f7/artifacts
+end_time: 1752556274973
+entry_point_name: ''
+experiment_id: '991278028168172286'
+lifecycle_stage: active
+run_id: f15a4133c2e74408a89a8588e2c291f7
+run_name: Explainability_LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752556274941
+status: 4
+tags: []
+user_id: kt

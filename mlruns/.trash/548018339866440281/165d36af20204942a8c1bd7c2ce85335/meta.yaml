@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kt/Documents/github.com/ai_powered_medical_assistant/mlruns/548018339866440281/165d36af20204942a8c1bd7c2ce85335/artifacts
+deleted_time: 1752554568218
+end_time: 1752392925540
+entry_point_name: ''
+experiment_id: '548018339866440281'
+lifecycle_stage: deleted
+run_id: 165d36af20204942a8c1bd7c2ce85335
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752392923220
+status: 3
+tags: []
+user_id: kt
