@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kt/Documents/github.com/ai_powered_medical_assistant/mlruns/335344567347222833/94be4a00f642481181086e47a8973d3c/artifacts
+deleted_time: 1752554565950
+end_time: 1752392006194
+entry_point_name: ''
+experiment_id: '335344567347222833'
+lifecycle_stage: deleted
+run_id: 94be4a00f642481181086e47a8973d3c
+run_name: fearless-swan-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752392003356
+status: 3
+tags: []
+user_id: kt

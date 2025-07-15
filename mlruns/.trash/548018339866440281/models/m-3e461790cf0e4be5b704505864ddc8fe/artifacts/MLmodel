@@ -1,0 +1,22 @@
+artifact_path: file:///Users/kt/Documents/github.com/ai_powered_medical_assistant/mlruns/548018339866440281/models/m-3e461790cf0e4be5b704505864ddc8fe/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-3e461790cf0e4be5b704505864ddc8fe
+model_size_bytes: 973
+model_uuid: m-3e461790cf0e4be5b704505864ddc8fe
+prompts: null
+run_id: 8340beb843e94c0c9e806958b06df374
+utc_time_created: '2025-07-13 07:49:55.942704'

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kt/Documents/github.com/ai_powered_medical_assistant/mlruns/335344567347222833/1f7a8b3980db4b4c9848eb0132769f83/artifacts
+deleted_time: 1752554565950
+end_time: 1752545489016
+entry_point_name: ''
+experiment_id: '335344567347222833'
+lifecycle_stage: deleted
+run_id: 1f7a8b3980db4b4c9848eb0132769f83
+run_name: judicious-colt-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752545486417
+status: 3
+tags: []
+user_id: kt

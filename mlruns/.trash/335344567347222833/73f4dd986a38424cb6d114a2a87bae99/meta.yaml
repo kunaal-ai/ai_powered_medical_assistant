@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kt/Documents/github.com/ai_powered_medical_assistant/mlruns/335344567347222833/73f4dd986a38424cb6d114a2a87bae99/artifacts
+deleted_time: 1752554565950
+end_time: 1752545316863
+entry_point_name: ''
+experiment_id: '335344567347222833'
+lifecycle_stage: deleted
+run_id: 73f4dd986a38424cb6d114a2a87bae99
+run_name: tasteful-dove-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752545316804
+status: 4
+tags: []
+user_id: kt

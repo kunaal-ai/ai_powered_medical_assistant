@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kt/Documents/github.com/ai_powered_medical_assistant/mlruns/991278028168172286/3864e9ebe7444a8dbc18c4db36e7c09f/artifacts
+end_time: 1752556680270
+entry_point_name: ''
+experiment_id: '991278028168172286'
+lifecycle_stage: active
+run_id: 3864e9ebe7444a8dbc18c4db36e7c09f
+run_name: invincible-shad-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752556680165
+status: 3
+tags: []
+user_id: kt
