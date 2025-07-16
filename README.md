@@ -28,6 +28,9 @@ A machine learning system for diabetes risk prediction with a focus on fairness 
    
    # 2. Train model
    python scripts/03_model_training.py
+
+   # 2.2 Model Comparison
+   python scripts/03_model_comparison.py
    
    # 3. Run analysis
    python scripts/04_bias_fairness_testing.py
