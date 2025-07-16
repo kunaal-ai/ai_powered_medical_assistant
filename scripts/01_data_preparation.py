@@ -47,7 +47,7 @@ for col in ["Glucose", "BloodPressure", "SkinThickness", "Insulin", "BMI"]:
     print(f"{col} : {zero_values}")
     
 # ------ Replace invalid zeros with NaN, then assign median  --------
-for col in ["Glucose", "BloodPressure", "BMI", "Insulin"]:
+for col in ["Glucose", "BloodPressure", "BMI", "Insulin","SkinThickness"]:
     df[col] = df[col].replace(0, np.nan)
     df[col].fillna(df[col].median(), inplace=True)
 
