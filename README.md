@@ -35,6 +35,17 @@ A machine learning system for diabetes risk prediction with a focus on fairness 
    # 3. Run analysis
    python scripts/04_bias_fairness_testing.py
    python scripts/05_model_explainability.py
+   
+   # 4. Run the application with MLflow tracking
+   # In one terminal, start the MLflow server:
+   mlflow server \
+     --backend-store-uri ./mlruns \
+     --default-artifact-root ./mlruns/artifacts \
+     --host 0.0.0.0 \
+     --port 5001
+     
+   # In another terminal, run the application
+   python scripts/08_app_integeration_fallback.py
    ```
 
 ## 🧠 Model Details
