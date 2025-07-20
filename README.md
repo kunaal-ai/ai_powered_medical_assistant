@@ -48,6 +48,32 @@ A machine learning system for diabetes risk prediction with a focus on fairness 
    python scripts/08_app_integeration_fallback.py
    ```
 
+## 🔄 Load Testing with Locust
+
+This project includes a [locustfile.py](locustfile.py) for load testing the FastAPI application.
+
+### Quick Start
+1. Install dependencies:
+   ```bash
+   pip install locust uvicorn fastapi
+   ```
+
+2. In one terminal, start the FastAPI app:
+   ```bash
+   uvicorn scripts.10_fastapi_app:app --reload --port 8000
+   ```
+
+3. In another terminal, run Locust:
+   ```bash
+   # Web UI mode
+   locust --host=http://localhost:8000
+   
+   # Or headless mode (10 users, 1s spawn rate, 1 minute)
+   locust --headless --users 10 --spawn-rate 1 --run-time 1m --host=http://localhost:8000
+   ```
+
+Access the web UI at http://localhost:8089 or check console for headless results. Modify `locustfile.py` to customize test scenarios.
+
 ## 🧠 Model Details
 
 ### Algorithm
