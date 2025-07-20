@@ -9,8 +9,12 @@ openai>=1.10.0
 faiss-cpu>=1.7.4
 python-dotenv>=1.0.0
 tiktoken>=0.4.0
+
 mlflow>=2.0.0
 
-
+#pytest
+pytest>=8.4.1
+pytest-cov>=4.1.0  # For test coverage reporting
+pytest-mock>=3.14.0  # For better mocking in tests
 
 shap>=0.44.0
